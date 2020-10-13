@@ -1,3 +1,5 @@
 fisica
 hitoria 
 mecanica
+redaccion
+programacion
