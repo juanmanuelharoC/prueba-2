@@ -3,3 +3,5 @@ hitoria
 mecanica
 redaccion
 programacion
+calculo 
+algebra
